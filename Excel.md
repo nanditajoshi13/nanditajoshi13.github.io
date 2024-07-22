@@ -18,17 +18,23 @@ Referencing is a way to fetch different values from the given data using its ind
 5. Power (^)
 6. Square Root (SQRT())
 
+These functions are used to convert your given data into your desired results using different formulas.
+
 >Sorting
 
 1. By Colour
 2. By Values
 3. By Font Colour
 
+These are used for displaying your data in the desired form. Say you want the high scorers to be displayed first.
+
 >Filtering
 
 1. By Colour
 2. By Values
 3. By Font Colour
+
+These are used to display only the desired data . Say you want see the data students who have scored 70 marks only.
 
 >If Else
 
@@ -45,6 +51,8 @@ For eg. you have a table containing marks and you want a text displaying "pass" 
 4. MAX (Maximum value)
 5. MIN (Minimum value)
 6. VAR.P (Variance on given data)
+
+These are different formula options generally used in statistics.
 
 >Data Cleaning
 
@@ -104,10 +112,20 @@ For eg. you have a table containing marks and you want a text displaying "pass" 
     - AND operator requires for both the given conditions to be fulfilled only then it will return the mentioned response
     - OR operator ressquires for either of the two (or more) conditions to be fulfilled for it to return the mentioned respoionse
 
+> Tables and Charts
+ - Types of tables
+    - Table
+    - Pivot Table
+ - Charts
+    - Bar Graph
+    - Line Graph
+    - Historam
+    - Pie Graph
+    - Radar Graph
+    - Scatter Chart
 
+   So all this was taught in only 1 week worth of self paced lectures. I found it highly beneficial and worth it. </br>
 
-
-
-
+   Here is my e-certiificate that I have received after completing all my lectures and giving 2 quizes :-
 
 ![Screenshot_2024-07-21-16-49-00-479_com android chrome-edit](https://github.com/user-attachments/assets/0c40d22e-e944-403c-9255-901e9579b451)
