@@ -27,7 +27,7 @@ leaving that and continuing with my indroduction, I am an average student as wel
 
 I call myself an Introvert and am a quiet person in general. 
 
-Currently I am pursuing a BTech. degree in ECE (Electronics and Communication Engineering) 
+Currently I am pursuing a BTech. degree in IT (Information Technology).
 
 
 > My qualities are :- 
