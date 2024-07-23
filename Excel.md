@@ -1,5 +1,5 @@
 # Excel Course
-I have recently completed my basic excel learning course offered by **Great Learning**.
+I have recently completed my basic excel learning course offered by **Great Learning Academy**.
 It was an excellent course suggested by my college- **Guru Nanak Dev Engineering College**.</br>
 Here is what all I have learnt during this course.
 >Types Of Referencing
@@ -126,6 +126,6 @@ These are different formula options generally used in statistics.
 
    So all this was taught in only 1 week worth of self paced lectures. I found it highly beneficial and worth it. </br>
 
-   Here is my e-certiificate that I have received after completing all my lectures and giving 2 quizes :-
+   Here is my e-certificate that I have received after completing all my lectures and giving 2 quizes :-
 
 ![Screenshot_2024-07-21-16-49-00-479_com android chrome-edit](https://github.com/user-attachments/assets/0c40d22e-e944-403c-9255-901e9579b451)
